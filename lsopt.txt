@@ -1,0 +1,13 @@
+Wed Feb  7 02:01:36 PM UTC 2024
+array.sh
+artarr.sh
+artcmd.sh
+artops.sh
+cmdline.sh
+intr.sh
+lsopt.txt
+read1.sh
+read2.sh
+read3.sh
+read4.sh
+readart.sh
